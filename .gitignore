@@ -1,0 +1,12 @@
+# Generated artifacts and local configuration
+*.o
+*.obj
+*.a
+*.so
+*.exe
+a.out
+.env
+.env.*
+!.env.example
+__pycache__/
+
